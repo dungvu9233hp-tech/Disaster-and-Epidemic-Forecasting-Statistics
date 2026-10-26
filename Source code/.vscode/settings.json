@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "OOP_Prj/src"
+    ],
+    "java.project.referencedLibraries": [
+        "OOP_Prj/lib/**/*.jar"
+    ],
+    "java.project.outputPath": "OOP_Prj/bin",
+    "git.ignoreLimitWarning": true
+}
